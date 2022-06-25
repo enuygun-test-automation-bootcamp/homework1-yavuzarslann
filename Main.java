@@ -7,7 +7,7 @@ public class Main {
 
         //burada ise abstract ve normal metodları çalıştırıyoruz
         e1.entrance("08:00");
-        e1.exit("18:00");
+        e1.exit("19:00");
         e1.checkProjects();
 
         s1.entrance("06:00");

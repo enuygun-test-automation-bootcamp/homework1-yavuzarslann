@@ -1,2 +1,2 @@
-# homework1
+# homework1 sözel sorular
 ödev1

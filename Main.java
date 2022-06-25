@@ -1,13 +1,18 @@
 public class Main {
     public static void main(String[] args) {
 
-        Circle c1 = new Circle("Green",2.3);
+        //burada mühendis ve güvenlik sınıfından nesneler oluşturuyoruz
+        Engineer e1 = new Engineer("Yavuz ","Arslan","IT","23");
+        Security s1 = new Security("Ahmet","Koçak","Otopark","Güvenlik amiri");
 
-        Rectangle r1 = new Rectangle("Blue",5,8);
+        //burada ise abstract ve normal metodları çalıştırıyoruz
+        e1.entrance("08:00");
+        e1.exit("18:00");
+        e1.checkProjects();
 
-        System.out.println("Circle's color is " + c1.getColor() + " and " + "the area is " + c1.area());
-        System.out.println("Rectangle's color is " + r1.getColor() + " and " + "the area is " + r1.area());
-
+        s1.entrance("06:00");
+        s1.exit("22:00");
+        s1.guardDuty();
 
     }
 }

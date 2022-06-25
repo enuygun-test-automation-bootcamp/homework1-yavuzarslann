@@ -1,2 +1,2 @@
 # homework1 sözel sorular
-1- Interface ve abstract class birlikte kullanıldığında hangisi önce çalışır? <br /> jdfjdbdjbfjdbfj
+1- Interface ve abstract class birlikte kullanıldığında hangisi önce çalışır? <br /> Abstract class, sınıfın neyden türediğini ifade edebilir. Interface, sınıfın hangi yeteneklere sahip olduğunu ifade edebilir. Abstract class, nesnenin ne yapması gerektiğini belirlemek ile beraber nasıl yapması gerektiğini de belirleyebilir. Interface, nesnenin ne yapması gerektiğini belirler ama nasıl yapması gerektiğini belirlemez.

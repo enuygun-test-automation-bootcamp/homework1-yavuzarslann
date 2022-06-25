@@ -1,2 +1,3 @@
 # homework1 sözel sorular
-ödev1
+1- Interface ve abstract class birlikte kullanıldığında hangisi önce çalışır?
+jdfjdbdjbfjdbfj
